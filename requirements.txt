@@ -1,0 +1,10 @@
+# Webフレームワーク
+Flask==3.0.0
+Flask-Login==0.6.3
+Flask-SQLAlchemy==3.1.1
+
+# PostgreSQL接続
+psycopg2-binary==2.9.9
+
+# 本番環境用Webサーバー
+gunicorn==21.2.0
